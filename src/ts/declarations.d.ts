@@ -1,0 +1,14 @@
+declare module "*.aac";
+declare module "*.caf";
+declare module "*.flac";
+declare module "*.m4a";
+declare module "*.m4b";
+declare module "*.mp3";
+declare module "*.mp4";
+declare module "*.mpeg";
+declare module "*.oga";
+declare module "*.ogg";
+declare module "*.opus";
+declare module "*.wav";
+declare module "*.webm";
+declare module "*.ac3";
